@@ -5,14 +5,19 @@ Im James, sometimes known as TJ.
 ____________________
 
 🇨🇦 Vancouver, BC
+
 💻 Javascript, React mainly
+
 🧠 Brainstation Alumni
+
 📊 Intern at Muqo
+
 📄 Https://sxulace.com
 
 ____________________
 
 On my off time, I...
+
 🎤 🎹 🎸 🕺 🇰🇷
 
 
