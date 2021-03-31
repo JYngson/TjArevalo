@@ -10,7 +10,7 @@ ____________________
 
 🧠 Brainstation Alumni
 
-📊 Intern at Muqo
+📊 Freelance Developer
 
 📄 Https://sxulace.com
 
