@@ -8,7 +8,7 @@ ____________________
 
 💻 Javascript, React mainly
 
-📫 Software Developer @ Chiefly
+📫 Software Developer
 
 🧠 Brainstation Alumni
 
