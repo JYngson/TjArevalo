@@ -1,31 +1,12 @@
-Kamusta! 😁
-
-Im James, sometimes known as TJ.
+James Yngson - Software Engineer
 
 ____________________
 
 🇨🇦 Vancouver, BC
-
-💻 Javascript, React mainly
-
+💻 Javascript, React
 📫 Software Developer
-
 🧠 Brainstation Alumni
-
-📊 Freelance Developer
-
 📄 Https://sxulace.com
-
-____________________
-
-Atm learning: React Native, Python.
-____________________
-
-On my off time, I...
-
-🎤 🎹 🎸 🕺 🇰🇷
-
-
 
 
 <!--
