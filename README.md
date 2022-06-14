@@ -6,7 +6,7 @@ ____________________
 💻 Javascript, React
 📫 Software Developer
 🧠 Brainstation Alumni
-📄 Https://sxulace.com
+
 
 
 <!--
