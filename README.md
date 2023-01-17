@@ -7,7 +7,7 @@ ____________________
 📫 Software Developer
 🧠 Brainstation Alumni
 
-
+Current Project: Development of a website displaying the number of collaborations a musician has had with other musicians. Utilizing the Spotify API for data, next.js + tailwind.css for frontend UI, and express + axios for backend. Final build to introduce use of three.js for 3D visualization of data.
 
 <!--
 **TjArevalo/TjArevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
